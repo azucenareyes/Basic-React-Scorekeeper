@@ -1,7 +1,54 @@
 .App {
   text-align: center;
 }
+.App-mainbox {
+  background-color: black;
+  height:650px;
+  width: 650px;
+padding: 20px;
+  margin: 10px;
+}
+.App-h1 {
+  text-align: center;
+  color: white;
+}
+.players{
+  background-color: pink;
+  height: 350px;
+  width: 500px;
+  margin: 30px;
+  padding: 20px;
+}
+.first{
+  text-align: left;
+  margin: 30px;
+  background-color: blue;
+  height:70px;
+  padding: 30px;
+}
+.minus{
+  background-color: red;
+  width: 50px;
+}
+.counter{
+  margin-left: 200px;
+  float: right;
+}
+.plus{
+  background-color: green;
+  width:50px;
+}
+.btn{
+margin-left: 5px;
+}
+.second{
+  height: 70px;
+  text-align: left;
+  margin: 30px;
+  padding: 20px;
+  background-color: lightblue;
 
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
